@@ -4,6 +4,13 @@ body  {
 	background-size: cover;
 }
 
+#head{
+    background-image: url("head1.png");
+    background-repeat: no-repeat;
+    background-size: 236px 136px;
+    background-position: 5% 5%;
+}
+
 .container {
 	padding-left: 330px;
 	padding-top: 150px;

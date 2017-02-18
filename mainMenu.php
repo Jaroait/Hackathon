@@ -2,6 +2,7 @@
 	Joseph Gauthier, 010654274
 	Jenifer Sandoval, 010659117
 -->
+
 <head>
 	<title> Main Menu </title>
 	<link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Home_font_awesome.svg/512px-Home_font_awesome.svg.png">
@@ -14,6 +15,7 @@
 
 
 <body>
+    <div id = "head" /div>
 <div class="container">
   <div  class="jumbotron">
     <h1>Main Menu</h1>
@@ -34,3 +36,4 @@
   </div>
 </div>
 </body>
+
