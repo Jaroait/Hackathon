@@ -6,11 +6,10 @@ body  {
 
 .container {
 	padding-left: 330px;
-	padding-top: 150px;
+	padding-top: 95px;
 }
 
 .jumbotron {
-	text-align: center;
 	width: 60%;
 	background: rgba(255, 255, 255, 0.75);
 	font-weight: bold;
@@ -19,4 +18,15 @@ body  {
 h1{
 	font-family: 'Megrim', cursive;
 	font-weight: bold;
+	text-align: center;
+}
+
+td,th {
+	border: 1px solid #000000;
+	text-align: left;
+	padding: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: #dddddd;
 }
