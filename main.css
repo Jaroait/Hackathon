@@ -4,23 +4,19 @@ body  {
 	background-size: cover;
 }
 
-#head{
-    background-image: url("head1.png");
-    background-repeat: no-repeat;
-    background-size: 236px 136px;
-    background-position: 5% 5%;
-}
-
 .container {
-	padding-left: 330px;
-	padding-top: 150px;
+	padding-left: 418px;
+	padding-top: 200px;
 }
 
 .jumbotron {
-	text-align: center;
-	width: 60%;
-	background: rgba(255, 255, 255, 0.75);
-	font-weight: bold;
+    width: 400px;
+    height: 450px;
+    background-image: url("mainMenu.png");
+    background-size: 400px 450px;
+    width 50%;
+    background-color: transparent;
+    background-repeat:no-repeat;
 }
 
 h1{

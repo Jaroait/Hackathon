@@ -15,23 +15,11 @@
 
 
 <body>
-    <div id = "head" /div>
 <div class="container">
   <div  class="jumbotron">
-    <h1>Main Menu</h1>
+
 		<div class="btn-group-vertical">
-		<a href="addStudent.php" class="btn btn-info" role="button">Add a Student</a>
-		<br>
-		<a href="adminLoginAddJob.php"class="btn btn-info" role="button">Add a Job (Admin login required)</a>
-		<br>
-		<a href="addApplication.php"class="btn btn-info" role="button">Add an Application</a>
-		<br>
-		<a href="viewStudents.php"class="btn btn-info" role="button">View Students</a>
-		<br>
-		<a href="viewJobs.php"class="btn btn-info" role="button">View Jobs</a>
-		<br>
-		<a href="adminLoginViewApplications.php"class="btn btn-info" role="button">View Applications (Admin login required)</a>
-		<br>
+		<a href="addStudent.php" class="btn btn-info" role="button"></a>
 	</div>
   </div>
 </div>
