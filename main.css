@@ -1,0 +1,22 @@
+body {
+    background-image: url("Background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    padding-left: 330px;
+    padding-top: 150px;
+}
+
+.jumbotron {
+    text-align: center;
+    width: 60%;
+    background: rgba(255, 255, 255, 0.75);
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Megrim', cursive;
+    font-weight: bold;
+}
