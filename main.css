@@ -6,14 +6,17 @@ body  {
 
 .container {
 	padding-left: 418px;
-	padding-top: 200px;
+	padding-top: 250px;
 }
 
 .jumbotron {
     width: 400px;
-    height: 450px;
+    height: 500px;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
     background-image: url("mainMenu.png");
-    background-size: 400px 450px;
+    background-size: 400px 500px;
     width 50%;
     background-color: transparent;
     background-repeat:no-repeat;
